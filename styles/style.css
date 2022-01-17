@@ -8,7 +8,10 @@
     /* выше для экранов больше 1600px отцентрировали весь контент */
     font-family: 'Helvetica Neue', Arial, sans-serif;
 }
-
+* {
+    margin: 0px;
+    padding: 0px;
+}
 .header {
     height: 100vh;
     min-height: 600px;
@@ -29,7 +32,7 @@
     justify-content: center;
     width: 730px;
     margin-left: 64px;
-    z-index: 1001;
+    z-index: 1005;
     align-items: center;
     min-width: 600px;
     max-height: 756px;
@@ -50,6 +53,7 @@
 .header__link {
     color: #2f80ed;
     text-decoration: none;
+    font-weight: normal;
 }
 .header__main-illustration {
     position: absolute;
@@ -285,7 +289,7 @@
     margin-right: auto;
     flex-basis: 711px;
     width: 90%;
-    justify-content:  space-between;
+    justify-content: space-between;
 }
 .footer__column_content_copyright{
     display: flex;
@@ -311,6 +315,7 @@
     color: white;
     line-height: 25px;
     font-size: 18px;
+    font-weight: normal;
 }
 .footer__column-heading {
     display: flex;
@@ -346,6 +351,7 @@
     align-items: flex-start;
     line-height: 30px;
     font-size: 18px;
+    font-weight: normal;
     margin-top: 20px;
     margin-bottom: 16px;
     justify-content: space-evenly;

@@ -340,10 +340,7 @@
 
 }
 .footer__social-icon{
-    display: flex;
-    flex-direction: column;
-    justify-content: space-evenly;
-    right: 15px;
+    right: 10px;
 }
 .footer__social-icon img {
     width: 16px;
@@ -360,7 +357,12 @@
     margin-bottom: 16px;
     justify-content: space-evenly;
 }
-.footer_social-link {
+.footer__social-link {
     color: white;
     text-decoration: none;
+}
+.footer__item-link {
+    display: flex;
+    flex-direction: column;
+
 }

@@ -74,13 +74,13 @@
 
 @import url("../blocks/section-title/_theme/section-title_theme_dark.css");
 
-@import url("../blocls/table/__heading/table__heading.css");
-@import url("../blocls/table/__cell/table__cell.css");
-@import url("../blocls/table/__text/table__text.css");
+@import url("../blocks/table/__heading/table__heading.css");
+@import url("../blocks/table/__cell/table__cell.css");
+@import url("../blocks/table/__text/table__text.css");
 
-@import url("../blocls/table/_theme/table_theme_dark.css");
-@import url("../blocls/table/__cell/_theme/table__cell_theme_dark.css");
-@import url("..blocls/table/__cell/_theme/table__cell_theme_dark.css");
+@import url("../blocks/table/_theme/table_theme_dark.css");
+@import url("../blocks/table/__cell/_theme/table__cell_theme_dark.css");
+@import url("..blocks/table/__cell/_theme/table__cell_theme_dark.css");
 
 @import url("../blocks/two-columns/__brief/two-columns__brief.css");
 @import url("../blocks/two-columns/__paragraph/two-columns__paragraph.css");

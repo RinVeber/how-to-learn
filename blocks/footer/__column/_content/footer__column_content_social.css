@@ -1,6 +1,5 @@
 .footer__column_content_social{
     display: flex;
     flex-direction: column;
-    bottom: 10px;
     align-items: center;
 }

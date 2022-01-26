@@ -1,0 +1,9 @@
+.feynman__pic {
+    position: absolute;
+    bottom: 0px;
+    left: 0px;
+    object-fit: cover;
+    z-index: 999;
+    height: 637px;
+    width: 867px;
+}

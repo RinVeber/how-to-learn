@@ -3,5 +3,7 @@
     margin: auto;
     margin-top: 20px;
     font-weight: normal;
+    position: relative;
+    z-index: 1000; 
     
 }

@@ -30,5 +30,7 @@
 
 Откройте файл index.html в любом браузере.
 
+Ссылка - https://rinveber.github.io/how-to-learn
+
 
 
